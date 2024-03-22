@@ -1,0 +1,41 @@
+{
+    "posts" : [
+        {
+          "id": 1,
+          "title": "Explor the wonders of nature",
+          "description": "Join me on a journey through breathtaking landscapes and fascinating wildlife.",
+          "likes": 1200
+        },
+        {
+          "id": 2,
+          "title": "The art of cooking",
+          "description": "Discover the joy of cooking delicious meals from scratch with fresh ingredients.",
+          "likes": 85
+        },
+        {
+          "id": 3,
+          "title": "Learning to play the guitar",
+          "description": "Embark on a musical adventure as we delve into the world of guitar playing.",
+          "likes": 230
+        },
+        {
+          "id": 4,
+          "title": "Traveling through history",
+          "description": "Explore ancient ruins, majestic castles, and rich cultural heritage across the globe.",
+          "likes": 175
+        },
+        {
+          "id": 5,
+          "title": "Mastering the art of photography",
+          "description": "Capture moments in time and express your creativity through the lens.",
+          "likes": 315
+        },
+        {
+          "id": 6,
+          "title": "Finding inner peace through meditation",
+          "description": "Experience tranquility and mindfulness through the practice of meditation.",
+          "likes": 200
+        }
+      ]
+      
+}
