@@ -5,6 +5,7 @@ export async function generateStaticParams(){
   const posts = await res.json();
   console.log(posts)
   const id = 
+  // If multiple posts are available then just use slice to show the first
     posts.map(post => {
       return {
         id: post.id + "",
@@ -13,7 +14,7 @@ export async function generateStaticParams(){
     console.log(id)
   
 
-  return [id]
+  return id;
 }
 
 const PageDetails = async({params}) => {
